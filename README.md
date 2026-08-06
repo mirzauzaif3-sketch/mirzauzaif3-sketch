@@ -14,7 +14,7 @@
 * 🏀 University-level Handball Player & Fitness Enthusiast
 * 🎯 Goal: Build **impactful AI products solving real-world problems**
 
-📫 Reach me: **[ujaifmirza.24@stvincentngp.edu.in](mailto:ujaifmirza.24@stvincentngp.edu.in)**
+📫 Reach me: **[mirzauzaif3@gmail.com](mailto:mirzauzaif3@gmail.com)**
 
 ---
 
@@ -90,10 +90,5 @@
 
 ---
 
-## 👀 Profile Views
-
-![](https://github.com/mirzauzaif3-sketch)
-
----
-
 🔥 *“Turning ideas into intelligent systems.”*
+
