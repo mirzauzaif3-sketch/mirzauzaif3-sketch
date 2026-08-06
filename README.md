@@ -1,16 +1,99 @@
-## Hi there 👋
+### Hi there, I'm [Uzaif Mirza](https://github.com/your-username) 👋
 
-<!--
-**mirzauzaif3-sketch/mirzauzaif3-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I ❤️ Building AI Solutions
 
-Here are some ideas to get you started:
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🎓 AI Engineering Student @ **St. Vincent Pallotti College of Engineering, Nagpur**
+* 🤖 Core Member @ **AI Prabodha Forum**
+* 🧠 Passionate about **AI, Computer Vision, Deep Learning & IoT**
+* 🏀 University-level Handball Player & Fitness Enthusiast
+* 🎯 Goal: Build **impactful AI products solving real-world problems**
+
+📫 Reach me: **[ujaifmirza.24@stvincentngp.edu.in](mailto:ujaifmirza.24@stvincentngp.edu.in)**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤟 Sign Language Translator (VoxNova)
+
+* Converts sign language into **English, Hindi & Marathi**
+* Built using **Computer Vision + ML models**
+* Future scope: AI Avatar for real-time sign animation
+
+---
+
+### 🌍 VayuRakshak – AQI Prediction System 🇮🇳
+
+* AI-powered system using **Satellite + Ground Data**
+* Predicts AQI using **LSTM/Deep Learning models**
+* Detects pollution hotspots & sources
+
+---
+
+### 🔥 Forest Fire Detection System
+
+* Detects fire using **image processing + ML**
+* Generates alerts for early prevention
+
+---
+
+### 🐍 Snake & Monkey Bite Detection
+
+* AI-based detection system with **SOS alert feature**
+* Uses **heatmap visualization + emergency response**
+
+---
+
+### 🎮 Hand Gesture Multimedia Controller
+
+* Control presentations, volume, zoom using gestures
+* Built with **MediaPipe + OpenCV**
+* ⚡ Accuracy: ~89% | Low latency system
+
+---
+
+### ♻️ E-Waste Collection Route Optimizer
+
+* Optimizes routes using **AI algorithms**
+* Helps improve recycling efficiency
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, C, C++, SQL
+* **AI/ML:** TensorFlow, OpenCV, MediaPipe
+* **Tools:** GitHub, VS Code, Jupyter Notebook
+* **Domains:** AI, Computer Vision, IoT, Automation
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat\&logo=github)](https://github.com/your-username)
+
+---
+
+## 👀 Profile Views
+
+![](https://github.com/mirzauzaif3-sketch)
+
+---
+
+🔥 *“Turning ideas into intelligent systems.”*
