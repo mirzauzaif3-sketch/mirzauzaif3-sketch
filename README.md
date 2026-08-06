@@ -76,13 +76,35 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <a href="#"> <img src="https://streak-stats.demolab.com?user=mirzauzaif3-sketch&theme=midnight-purple&hide_border=true" /> </a> <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=mirzauzaif3-sketch&show_icons=true&theme=midnight-purple&hide_border=true" /> </a> <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzauzaif3-sketch&layout=compact&theme=midnight-purple&hide_border=true" /> </a> </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mirzauzaif3-sketch&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirzauzaif3-sketch&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzauzaif3-sketch&layout=compact&theme=midnight-purple&hide_border=true" />
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)](www.linkedin.com/in/uzaif-mirza-823309356)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirzauzaif3-sketch&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mirzauzaif3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/uzaif-mirza-823309356" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
