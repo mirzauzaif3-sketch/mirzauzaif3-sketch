@@ -76,10 +76,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username= mirzauzaif3-sketch &layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<div align="center"> <a href="#"> <img src="https://streak-stats.demolab.com?user=mirzauzaif3-sketch&theme=midnight-purple&hide_border=true" /> </a> <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=mirzauzaif3-sketch&show_icons=true&theme=midnight-purple&hide_border=true" /> </a> <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzauzaif3-sketch&layout=compact&theme=midnight-purple&hide_border=true" /> </a> </div>
 
 ---
 
