@@ -78,15 +78,14 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzauzaif3-sketch&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat\&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)](www.linkedin.com/in/uzaif-mirza-823309356)
 
 ---
 
